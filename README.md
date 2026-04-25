@@ -1,2 +1,2 @@
 # Voto-AnimalePreferito
-Un programma di scelta di voto fra due animali
+Programma in C++ in cui bisogna votare l'animale preferito
